@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneManager.cs" Line="43" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/CollidableMusicNote.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/ChangeLevel.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/ChangeSoundBoxTexture.cs" Line="11" Column="8" />
+      <File FileName="Assets/Scripts/MusicManager.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
