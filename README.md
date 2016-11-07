@@ -4,3 +4,5 @@ A game developed in Global Game Jam 2014 Curitiba. Theme: "We don't see things a
 Video: https://www.youtube.com/watch?v=b5fOTBhPdT8
 
 Build avaliable for Mac, Windows and Web.
+
+Made with Unity 4.
